@@ -14,7 +14,7 @@
 
 ```
 💻 I'm currently working as AI|ML|DS|MLOps|DevOps Engineer
-📚 I have an Engineer in Computer Science from the Hanoi University of Science and Technology in VietNam
+📚 I have an Engineering degree in Computer Science from Hanoi University of Science and Technology (HUST) in VietNam
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
