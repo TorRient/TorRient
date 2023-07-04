@@ -1,6 +1,8 @@
 <h1 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Thuyen! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=TorRient&style=flat-square&color=blueviolet">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Thuyen! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h1>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=TorRient&style=flat-square&color=blueviolet">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thuyen%20Nguyen%20Hoang-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/thuyen-nguyen-hoang-b44bb5207/)](https://www.linkedin.com/in/thuyen-nguyen-hoang-b44bb5207/)  [![GitHub followers](https://img.shields.io/github/followers/torrient?label=Follow&style=social)](https://github.com/TorRient/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-hoangthuyen1998-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:hoangthuyen1998@gmail.com)](mailto:hoangthuyen1998@gmail.com) 
 
