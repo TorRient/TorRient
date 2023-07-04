@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=DS%20|%20AI%20|%20ML%20Enthusiastic;Cloud|%20MLOps%20|%20DevOps%20Enthusiastic;&center=true&width=410&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=DS%20|%20AI%20|%20ML%20Enthusiastic;Cloud%20|%20MLOps%20|%20DevOps%20Enthusiastic;&center=true&width=415&height=45"></a>
 </p>
 
 ```
