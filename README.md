@@ -4,7 +4,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=TorRient&style=flat-square&color=blueviolet">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thuyen%20Nguyen%20Hoang-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/thuyen-nguyen-hoang-b44bb5207/)](https://www.linkedin.com/in/thuyen-nguyen-hoang-b44bb5207/)  [![GitHub followers](https://img.shields.io/github/followers/torrient?label=Follow&style=social)](https://github.com/TorRient/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-hoangthuyen1998-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:hoangthuyen1998@gmail.com)](mailto:hoangthuyen1998@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Thuyen%20Nguyen%20Hoang-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/thuyen-nguyen-hoang-b44bb5207/)](https://www.linkedin.com/in/thuyen-nguyen-hoang-b44bb5207/)  [![GitHub followers](https://img.shields.io/github/followers/torrient?label=Follow&style=social)](https://github.com/TorRient/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-hoangthuyen1998@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:hoangthuyen1998@gmail.com)](mailto:hoangthuyen1998@gmail.com) 
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
