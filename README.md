@@ -13,7 +13,7 @@
 </p>
 
 ```
-💻 I'm currently working as AI|ML|DS|MLOps|DevOps Engineer
+💻 I'm currently working as AI|ML|MLOps Engineer
 📚 I have an Engineering degree in Computer Science from Hanoi University of Science and Technology (HUST) in VietNam
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
