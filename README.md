@@ -21,11 +21,12 @@
 🌟 Main languages: Python, C++
 ⛅ AWS, Databricks
 🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks, Kubernetes
+💖 In a complicated relationship with Neural Networks, Kubernetes, Harness
+🤖 Working towards orchestrating AI agents for every task
 ```
 <hr>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=TorRient&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorRient&theme=react&layout=compact" />
+  <img height= "150" src="https://github-stats-extended.vercel.app/api?username=TorRient&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TorRient&theme=react&layout=compact" />
 </p>
